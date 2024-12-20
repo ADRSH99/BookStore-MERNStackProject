@@ -20,4 +20,5 @@ const bookSchema = mongoose.Schema(
   }
 );
 
+//either use schemas or separate inputs for all variables
 export const Book = mongoose.model('Book', bookSchema);
