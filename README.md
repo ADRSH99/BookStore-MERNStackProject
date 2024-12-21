@@ -1,4 +1,4 @@
-Winter 2024 Vacation MERN Stack Learn and Code Project.
+Winter 2024 Vacation MERN Stack Learn and Code Project by Adarsh Bellamane.
 
 This project makes full use of HTML, CSS, JavaScript and its libraries.
 JavaScript libraries such as Node.js, Express.js framework and React & React-Router were used thoroughly in this project.
